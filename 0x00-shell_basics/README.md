@@ -1,1 +1,1 @@
-Command to check directory
+SHell basics
